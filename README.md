@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! 👋 I’m Mehyar, a Junior Data Scientist passionate about crafting smart solutions with NLP, computer vision, and machine learning. From fine-tuning transformers to experimenting with Retrieval-Augmented Generation (RAG) and deploying AI models that (mostly) behave, I’m always up for a challenge. With a solid math and CS background, I’m aiming to push boundaries in AI research—and maybe earn that PhD along the way. 
+Hi there! 👋 I’m Mehyar, LLM Engineer passionate about crafting smart solutions with NLP, computer vision, and machine learning. From fine-tuning transformers to experimenting with Retrieval-Augmented Generation (RAG) and deploying AI models that (mostly) behave, I’m always up for a challenge. With a solid math and CS background, I’m aiming to push boundaries in AI research—and maybe earn that PhD along the way. 
 
 
 ## 🌐 Socials:
